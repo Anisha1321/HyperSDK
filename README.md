@@ -1,4 +1,4 @@
-<p align="center">
+
 <!--   <img width="90%" alt="tokenvm" src="assets/logo.png"> -->
 </p>
 <p align="center">
@@ -17,7 +17,7 @@ In this project we are making some changes in the initial github repository whic
 ## Getting Started
 1) setting the constants in consts/consts.go
    
-![image](https://github.com/user-attachments/assets/748fa5a9-51da-4c9b-a5df-a326fa66b874)
+<img width="818" alt="SS-1" src="https://github.com/user-attachments/assets/13e16623-665d-4f4f-930a-d28230e899f1">
 
 2) Adding the code in registry/registry.go
 
@@ -86,8 +86,9 @@ let's create our own asset. You can do so by running the following command:
 
 When you are done, the output should look something like this:
 
-![image](https://github.com/user-attachments/assets/0ccc04d1-9cd8-4f42-87ec-c4a7a2fa8b34)
 
+
+<img width="641" alt="SS-3" src="https://github.com/user-attachments/assets/85a208ab-c176-4df1-b421-dacfea092636">
 
 _`txID` is the `assetID` of your new asset._
 
@@ -103,7 +104,8 @@ running the following command:
 
 When you are done, the output should look something like this:
 
-![image](https://github.com/user-attachments/assets/0b7ca284-ebeb-49f6-9607-ec7ea2182aa0)
+<img width="616" alt="SS-4" src="https://github.com/user-attachments/assets/c6501c0d-2705-48e3-ba91-630822a1a957">
+
 
 
 
@@ -118,14 +120,16 @@ so by running the following command:
 
 When you are done, the output should look something like this:
 
-![image](https://github.com/user-attachments/assets/9e6a3b8b-52ba-419a-b09a-eaad6f626eef)
+<img width="656" alt="SS-5" src="https://github.com/user-attachments/assets/0d6bee49-4b72-4597-bf8b-6986ccc5e5cd">
+
+
 
 After all this we can stop our running subnet network by using: 
  to stop the network we started using
 `killall avalanche-network-runner`._
 
 ## Author
-Suryansh Mishra @suryanshmihsra0704@gmail.com
+Anisha Kumari @anishakumarixib@gmail.com
 
 ## License
 This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details

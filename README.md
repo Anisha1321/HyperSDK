@@ -131,7 +131,3 @@ After all this we can stop our running subnet network by using:
 ## Author
 Anisha Kumari @anishakumarixib@gmail.com
 
-## License
-This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details
-
-
